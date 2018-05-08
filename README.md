@@ -2,7 +2,7 @@
 
 ## 技术支持 Support
 
-在使用过程中有任何问题可以发送问题邮件至 **microweb@fomail.com** 
+在使用过程中有任何问题可以发送问题邮件至 **microweb@foxmail.com** 
 
 ## 特性 Features
 
